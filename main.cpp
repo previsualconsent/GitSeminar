@@ -62,6 +62,7 @@ int main (int argc, char *argv[])
          min = guess + 1;
       }
    }
+   //Comments
    std::cout << "You guessed my number in " << n_guesses << "guesses\n";
 
 }
