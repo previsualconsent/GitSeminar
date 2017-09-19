@@ -63,6 +63,8 @@ int main (int argc, char *argv[])
       }
    }
    //Comments
+   //man i love comments
+
    std::cout << "You guessed my number in " << n_guesses << "guesses\n";
 
 }
